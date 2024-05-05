@@ -9,7 +9,7 @@ Additionally, Simulink Dashboard Items were used designed a user-friendly GUI to
 - preparing for system identification and validation using collected data.
   
 This project highlights my comprehensive approach to system design, implementation, and analysis, demonstrating practical application of control systems principles through hands-on experimentation.
-![image](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/9a2688a8-1a11-4681-a1e9-353cf63623d6)
+(https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/9a2688a8-1a11-4681-a1e9-353cf63623d6)
 
 
 
