@@ -25,8 +25,7 @@ This project highlights my comprehensive approach to system design, implementati
 
 ![Floating Ball Work Bench](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/1040e5cc-8358-4710-a012-3e17ebc35170)
 
-![SolidWorks Model](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/2f7df5e8-5d27-4c25-9c75-a9dd04aadf2c)
-
+<img src="[https://your-image-url.type](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/aab399cc-f92e-4d84-8a55-b14115f963ba)" width="110" height="280">
 
 
 
