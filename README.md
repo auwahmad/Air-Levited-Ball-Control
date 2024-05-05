@@ -23,9 +23,8 @@ This project highlights my comprehensive approach to system design, implementati
 9. System Identification App
 10. MATLAB & Simulink Support Package for Arduino Hardware
 
-![Floating Ball Work Bench](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/1040e5cc-8358-4710-a012-3e17ebc35170)
-
-<img src="[https://your-image-url.type](https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/aab399cc-f92e-4d84-8a55-b14115f963ba)" width="110" height="280">
+<img src="https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/1040e5cc-8358-4710-a012-3e17ebc35170" width="380" height="540">
+<img src="https://github.com/auwahmad/Air-Levited-Ball-Control/assets/70074147/aab399cc-f92e-4d84-8a55-b14115f963ba" width="175" height="420">
 
 
 
